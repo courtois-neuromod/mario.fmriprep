@@ -10,7 +10,9 @@
 	path = sourcedata/smriprep
 	url = git@github.com:courtois-neuromod/anat.smriprep.git
 	datalad-id = f3ef9683-0a58-4d2b-b4eb-d33d8fc3fd2b
+	datalad-url = https://github.com/courtois-neuromod/anat.smriprep.git
 [submodule "sourcedata/cneuromod.mario"]
 	path = sourcedata/cneuromod.mario
 	url = git@github.com:courtois-neuromod/mario.git
 	datalad-id = 195953d1-63c4-491a-adb1-c2e9ea1a2746
+	datalad-url = https://github.com/courtois-neuromod/mario.git
