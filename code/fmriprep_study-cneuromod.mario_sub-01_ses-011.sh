@@ -10,7 +10,7 @@
 #SBATCH --mail-type=BEGIN
 #SBATCH --mail-type=END
 #SBATCH --mail-type=FAIL
-#SBATCH --mail-user=None
+#SBATCH --mail-user=basile.pinsard@gmail.com
 
  
 set -e -u -x
