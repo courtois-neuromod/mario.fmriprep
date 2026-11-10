@@ -23,6 +23,7 @@
 35238d5c-7f26-4647-ab82-84910b3968bc bpinsard@bc11947.int.ets1.calculquebec.ca:/localscratch/bpinsard.32520627.0/fmriprep_studycneuromod.mario_sub06_ses011.job timestamp=1666844546.596835814s
 36703c4c-b328-4e13-abce-90d889df533e bpinsard@bc12153.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416626.0/fmriprep_studycneuromod.mario_sub01_ses014.job timestamp=1666520045.738267439s
 38a8a504-8276-4c25-85ae-406029ad4293 bpinsard@bc11820.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416601.0/fmriprep_studycneuromod.mario_sub06_ses010.job timestamp=1666518525.920719559s
+393d8894-cbfb-441a-b4ac-3b5dc095e6bc root@823c06e524b4:/work/cneuromod.processed/fmriprep/mario timestamp=1778592453s
 3ce427ec-0615-444a-a81e-980d40c350c8 bpinsard@bc12003.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416589.0/fmriprep_studycneuromod.mario_sub06_ses009.job timestamp=1666490573.164864649s
 3e093720-34d7-4116-8516-0b018a2f2b73 bpinsard@bc11932.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416535.0/fmriprep_studycneuromod.mario_sub02_ses019.job timestamp=1666435616.264076339s
 3e7d995c-a9f7-4454-8fb2-0fc6654be0f7 bpinsard@bc11759.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416552.0/fmriprep_studycneuromod.mario_sub03_ses013.job timestamp=1666439416.882542586s
@@ -77,10 +78,12 @@ ad6a6eed-ec4b-40ea-872f-e51a022673c6 bpinsard@bc12356.int.ets1.calculquebec.ca:/
 af1135b7-e692-4521-ad35-2692cc40b1ae bpinsard@bc11934.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416641.0/fmriprep_studycneuromod.mario_sub05_ses001.job timestamp=1666521014.939338287s
 b06e23f9-1b82-4896-a6cb-4d2a7e2b8234 bpinsard@bc12359.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416636.0/fmriprep_studycneuromod.mario_sub05_ses009.job timestamp=1666520730.92980739s
 b0937013-d646-457f-af77-92f0979a236d bpinsard@bc11215.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416551.0/fmriprep_studycneuromod.mario_sub03_ses005.job timestamp=1666439394.98346241s
+b5a9a5c2-0396-4204-8981-ac400408a5fb bpinsard@beluga4.int.ets1.calculquebec.ca:/localscratch/bpinsard/cneuromod.mario.fmriprep timestamp=1717098639.721269136s
 b78554e8-96f0-4fa5-9285-cd7d77466786 unfs3.cneuromod.mario.fmriprep timestamp=1666730398.227645265s
 b8619699-54f0-418d-a884-60c47ddafca4 bpinsard@bc12152.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416624.0/fmriprep_studycneuromod.mario_sub01_ses010.job timestamp=1666520025.896821527s
 b9edeceb-4130-46a2-b0c3-9497f8089fcc bpinsard@bc12041.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416612.0/fmriprep_studycneuromod.mario_sub01_ses020.job timestamp=1666518981.343271522s
 bb3d078b-7d5d-46ae-8003-cb8a0d027c71 bpinsard@bc11848.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416615.0/fmriprep_studycneuromod.mario_sub01_ses009.job timestamp=1666519665.989478482s
+bbcd3398-9bdf-4330-ae12-ec0b467666ea bpinsard@elm.criugm.qc.ca:/scratch/tmp/cneuromod.all/mario/fmriprep timestamp=1756143239s
 bcd3e765-9df3-4958-b45f-1930b8b84324 bpinsard@bc12235.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416540.0/fmriprep_studycneuromod.mario_sub02_ses010.job timestamp=1666436938.575771927s
 c4057aa9-8f8f-48ad-82b6-f60fa05c8e06 bpinsard@bc12204.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416628.0/fmriprep_studycneuromod.mario_sub05_ses008.job timestamp=1666520709.253691121s
 c6afc256-64f0-405e-9827-dc44e6e4e648 bpinsard@bc11313.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416583.0/fmriprep_studycneuromod.mario_sub06_ses001.job timestamp=1666450341.939829482s
@@ -91,6 +94,7 @@ ce646866-93ec-43fa-bb94-0191ac06f1a0 bpinsard@bc12034.int.ets1.calculquebec.ca:/
 d015c33c-38f5-4f2f-8e9c-0f4ab64f5558 bpinsard@bc12224.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416629.0/fmriprep_studycneuromod.mario_sub05_ses007.job timestamp=1666520689.919712474s
 d0ebd5f5-9042-4a49-a5d4-85a6f6438925 bpinsard@bc11933.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416640.0/fmriprep_studycneuromod.mario_sub05_ses002.job timestamp=1666521030.069944629s
 d39008dc-a711-4901-8117-a6c5dcd502f5 bpinsard@bc12235.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416544.0/fmriprep_studycneuromod.mario_sub03_ses021.job timestamp=1666437503.618063847s
+d3d7603d-ef9c-42c0-b615-1878f99bc287 conp-ria-storage timestamp=1717099515.121217902s
 d60b8011-007f-4552-b189-ba0b643827f5 bpinsard@bc12201.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416608.0/fmriprep_studycneuromod.mario_sub01_ses002.job timestamp=1666518900.172682438s
 d899868f-fdec-4530-852f-df3a4067ef27 bpinsard@bc11948.int.ets1.calculquebec.ca:/localscratch/bpinsard.32520618.0/fmriprep_studycneuromod.mario_sub05_ses015.job timestamp=1666844347.060617914s
 d956e2f1-55a2-4a25-90ea-1fbad2fd4ab3 bpinsard@bc11823.int.ets1.calculquebec.ca:/localscratch/bpinsard.32416609.0/fmriprep_studycneuromod.mario_sub01_ses001.job timestamp=1666518926.067898739s
