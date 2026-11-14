@@ -2,3 +2,6 @@
 	id = c1c43979-a83d-42b7-9508-4fface179af8
 [datalad "get"]
 	subdataset-source-candidate-620cneuromodhttp = https://github.com/courtois-neuromod/{name}.git
+[datalad "containers.bids-fmriprep"]
+	image = containers/images/bids/bids-fmriprep--20.2.5.sing
+	cmdexec = {img_dspath}/containers/scripts/singularity_cmd run {img} {cmd}
